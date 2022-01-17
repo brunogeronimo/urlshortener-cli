@@ -1,7 +1,7 @@
 name: urlshortener_cli
-description: A simple command-line application.
+description: A url shortener config file generator.
 version: 1.0.0
-# homepage: https://www.example.com
+homepage: https://github.com/brunogeronimo/urlshortener-cli
 
 environment:
   sdk: '>=2.15.1 <3.0.0'
